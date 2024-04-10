@@ -1,0 +1,1 @@
+En esta carpeta encontraran los archivos originales comprimidos,de los cuales se obtuvieron los datos necesarios para realizar los procesos de ETL y DEA respectivamente.
